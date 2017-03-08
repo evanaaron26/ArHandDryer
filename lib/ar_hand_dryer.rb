@@ -2,9 +2,11 @@ require "ar_hand_dryer/version"
 
 module ArHandDryer
   class Dryer
-    def Turn_on
-       `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;;;;;` 
+    def turn_on
+       `say yayayayayayayayayayayayay` 
     end
   end 
 end
+
+
 

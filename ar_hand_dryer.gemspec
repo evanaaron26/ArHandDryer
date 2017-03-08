@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "This Gem drys your hands"
   spec.description   = "This Gem helps to dry your hands right from the terminal"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/evanaaron26/ArHandDryer"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
